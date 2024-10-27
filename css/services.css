@@ -1,0 +1,51 @@
+#heading1{
+    color: #aaff00;
+    text-align: center;
+}
+.paragraph{
+    color: #8499ad;
+    font-size:20px;
+}
+#mydiv{
+    background-color: aquamarine;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 30px;
+
+}
+#test{
+    background-color: #8499ad;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 30px;
+    display: flex;
+}
+#test img{
+    margin-right: 40px ;
+    border-radius: 500px;
+}
+#main{
+    display: flex;
+}
+#firstclass{
+    background-color: #a184ad;
+    margin-left: 20px;
+    padding: 30px;
+}
+#economy{
+    background-color: darkslategrey;
+    margin-left: 20px;
+    padding: 30px;
+}
+#business{
+    background-color: blanchedalmond;
+    margin-left: 20px;
+    padding: 30px;
+}
+#firstclass:hover,#economy:hover,#business:hover{
+    background-color: #8ead84;
+    box-shadow: 5px 6px 8px red;
+
+}
